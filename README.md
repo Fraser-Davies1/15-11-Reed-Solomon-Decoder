@@ -6,6 +6,9 @@ Syndrome Calculator -> Euclidian Algorithm (Polynomial Division)
 -> Error Locator (Using Chien search and Forney Method) -> 
 Error Correction by adding error vector to delayed version of input codeword.
 
+<img width="829" height="343" alt="image" src="https://github.com/user-attachments/assets/21d17741-1cce-446d-824f-8fbbfb443fba" />
+
+
 EXAMPLE:
 
 input codeword at 45ns 1,2,3,4,5,11,7,8,9,10,3,1,12,12
