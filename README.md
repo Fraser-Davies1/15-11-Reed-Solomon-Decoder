@@ -11,7 +11,9 @@ EXAMPLE:
 input codeword at 45ns 1,2,3,4,5,11,7,8,9,10,3,1,12,12
 includes mistakes, correct codeword should be:
 1,2,3,4,5,6,7,8,9,10,11,3,3,12,12
-<img width="1448" height="539" alt="image" src="https://github.com/user-attachments/assets/140e5d58-3018-411f-8260-21cd9d1ba255" />
+(highlighted orange)
+<img width="1411" height="326" alt="image" src="https://github.com/user-attachments/assets/de70d035-04fe-45d2-95e5-2648b9a489cc" />
+
 
 Corrected Codeword is highlighted in yellow as:
 1,2,3,4,5,6,7,8,9,10,11,3,3,12,12
