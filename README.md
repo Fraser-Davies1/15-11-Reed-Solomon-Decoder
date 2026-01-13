@@ -20,6 +20,10 @@ Corrected Codeword is highlighted in yellow as:
 <img width="1587" height="462" alt="image" src="https://github.com/user-attachments/assets/71edd5cf-b90b-4a4e-aba4-1cc23a7ccca0" />
 
 
+Work was largely based on this document.
+https://downloads.bbc.co.uk/rd/pubs/whp/whp-pdf-files/WHP031.pdf
+
+
 
 
 
